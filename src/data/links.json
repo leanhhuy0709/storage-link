@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+          "name": "Google",
+          "link": "http://google.com/"
+        },
+        {
+          "name": "SE Extra Drive",
+          "link": "https://drive.google.com/drive/u/0/folders/1jM1gjFhFG--1h6CADVWwsysTcjDBKEVt?fbclid=IwAR0Ih67UJzMcTHVRu8wgRTSFljA0MTKvOh7lhEBxTKMSxl9Um-KdGNlpUP8"
+        },
+        {
+          "name": "HCSDL Diagrams",
+          "link": "https://app.diagrams.net/#G1dLJSdFITJXrTbuT-BSte7U24NT-SJThm"
+        },
+        {
+          "name": "Bkel CSE",
+          "link": "https://elearning-cse.hcmut.edu.vn/?fbclid=IwAR17OOPVJR52ajOLPI0vsD8xgbGLetn2F4jNVQ1Y6wXjUh89mcsg-Yc8Mvo"
+        },
+        {
+          "name": "SE Overleaf",
+          "link": "https://www.overleaf.com/project/633ec2bb3ef3179ff807c513"
+        },
+        {
+          "name": "HCSDL PMR Meet",
+          "link": "https://meet.google.com/mgx-ruxc-nbs?pli=1&authuser=1"
+        },
+        {
+          "name": "SE Github",
+          "link": "https://github.com/hungle45/Brogrammers-UWC-2.0?fbclid=IwAR32pvFN8eUrFp-YQVkaUlAe_2ELCHcVQuvzmKn9gSfAMGjBx5gTpznJF4k"
+        },
+        {
+          "name": "SE Figma",
+          "link": "https://www.figma.com/file/8PDnHk50DxQKE5KkH2ayPt/figma-%C4%91%E1%BB%93-%C3%A1n?node-id=0%3A1&t=yIKOBI7D5IjInpGf-0"
+        },
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/"
+        }
+    ]
+}
